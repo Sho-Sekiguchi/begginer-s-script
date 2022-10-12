@@ -1,2 +1,2 @@
-# begginer-s-script
+# beginner-s-script
 RNA-seq
